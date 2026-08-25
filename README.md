@@ -140,18 +140,8 @@ Academic and practical software engineering focused on web development, core AI 
 
 </div>
 
----
-## GitHub Stats
 
-<div align="center">
 
-<img src="https://github-readme-stats.shion.dev/api?username=sivabalan-05&show_icons=true&theme=tokyonight&hide_border=true&title_color=9333ea&icon_color=a855f7&include_all_commits=true&count_private=true" height="170" />
-
-<br/><br/>
-
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=sivabalan-05&layout=compact&theme=tokyonight&hide_border=true&title_color=9333ea&include_all_commits=true&count_private=true" height="170" />
-
-</div>
 
 ---
 ## GitHub Statistics
