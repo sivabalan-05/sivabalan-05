@@ -83,14 +83,14 @@ Built an automated control pipeline connecting microcontrollers with a central b
 <br/>
 
 <details>
-<summary><b>🔹 AI-Powered Full-Stack Application</b></summary>
+<summary><b>🔹 Weather GPT</b></summary>
 <br/>
 
 Modern web application integrated with machine learning models to provide automated data processing and user predictions.
 
 | Stack | Scale | Performance | Security | Impact | Repository |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| React, Python, FastAPI, PyTorch | Web Application | Optimized Inference Response | Standard API Authentication | Streamlined User Decision Making | [Link](https://github.com/sivabalan-05) |
+| React, Python, FastAPI, PyTorch | Web Application | Optimized Inference Response | Standard API Authentication | Streamlined User Decision Making | [Link]([https://github.com/sivabalan-05](https://github.com/sivabalan-05/weatherGPT)) |
 
 #### Technical Overview
 Engineered a RESTful web application featuring a React user interface connected to a FastAPI backend serving PyTorch AI models.
