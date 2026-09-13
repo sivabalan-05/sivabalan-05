@@ -67,14 +67,14 @@ I enjoy building full-stack applications, AI-powered solutions, and real-world p
 ## Featured Projects
 
 <details>
-<summary><b>🔹 Smart Automation & IoT System</b></summary>
+<summary><b>🔹 Zero Trust Network Access </b></summary>
 <br/>
 
-An integrated IoT and software solution leveraging sensors and microcontrollers for automated environment monitoring and real-time control.
+Developed an AI-powered ZTNA system with adaptive trust scoring, MFA, JWT authentication, anomaly detection, and role-based access control for continuous secure access.
 
 | Stack | Scale | Performance | Security | Impact | Repository |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Python, Arduino, MySQL, FastAPI | Prototype / Local | Real-Time Sensor Processing | Local Authentication | Automated Manual Control Operations | [Link](https://github.com/sivabalan-05) |
+| I / Cyber Security & Full Stack · Python, PyTorch, FastAPI, Spring Boot, React.js, PostgreSQL, JWT | [Link]([https://github.com/sivabalan-05](https://github.com/sivabalan-05/ztna-adaptive-trust)) |
 
 #### Technical Overview
 Built an automated control pipeline connecting microcontrollers with a central backend to process incoming sensor data and trigger actions based on predefined thresholds.
