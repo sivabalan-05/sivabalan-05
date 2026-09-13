@@ -87,14 +87,15 @@ Integrated an **Isolation Forest anomaly-detection model** with 13 behavioral/co
 <summary><b>🔹 Weather GPT</b></summary>
 <br/>
 
-Modern web application integrated with machine learning models to provide automated data processing and user predictions.
+Built an intelligent weather platform combining real-time meteorological data with AI-driven reasoning for forecasts, severe weather alerts, agricultural advisories, interactive maps, and climate insights.
 
 | Stack | Scale | Performance | Security | Impact | Repository |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| React, Python, FastAPI, PyTorch | Web Application | Optimized Inference Response | Standard API Authentication | Streamlined User Decision Making | [Link]([https://github.com/sivabalan-05](https://github.com/sivabalan-05/weatherGPT)) |
+| React, TypeScript, Python, FastAPI, Tailwind CSS, Open-Meteo | Web Application | Real-Time Weather Processing | API Validation & CORS | AI-Powered Weather Decision Support | [Link](https://github.com/sivabalan-05/weatherGPT) |
 
 #### Technical Overview
-Engineered a RESTful web application featuring a React user interface connected to a FastAPI backend serving PyTorch AI models.
+Developed an **AI-powered weather intelligence platform** using React and FastAPI, integrating real-time weather data with intelligent forecasting and contextual analysis.  
+Implemented **weather alerts, agricultural advisories, interactive maps, and climate analytics** to provide actionable, location-based weather insights.
 </details>
 
 ---
