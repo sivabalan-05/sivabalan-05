@@ -77,7 +77,8 @@ Developed an AI-powered ZTNA system with adaptive trust scoring, MFA, JWT authen
 | I / Cyber Security & Full Stack · Python, PyTorch, FastAPI, Spring Boot, React.js, PostgreSQL, JWT | [Link]([https://github.com/sivabalan-05](https://github.com/sivabalan-05/ztna-adaptive-trust)) |
 
 #### Technical Overview
-Built an automated control pipeline connecting microcontrollers with a central backend to process incoming sensor data and trigger actions based on predefined thresholds.
+Built a **React + FastAPI Zero Trust platform** with JWT/TOTP MFA, RBAC, PostgreSQL/Redis, and continuous session verification using adaptive 0–100 trust scoring.  
+Integrated an **Isolation Forest anomaly-detection model** with 13 behavioral/contextual features, achieving **0.949 recall, 0.895 F1, and 0.997 ROC-AUC** on simulated attack events. 
 </details>
 
 <br/>
