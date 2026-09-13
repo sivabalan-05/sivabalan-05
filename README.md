@@ -72,9 +72,9 @@ I enjoy building full-stack applications, AI-powered solutions, and real-world p
 
 Developed an AI-powered ZTNA system with adaptive trust scoring, MFA, JWT authentication, anomaly detection, and role-based access control for continuous secure access.
 
-| Stack | Scale | Performance | Security | Impact | Repository |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| I / Cyber Security & Full Stack · Python, PyTorch, FastAPI, Spring Boot, React.js, PostgreSQL, JWT | [Link]([https://github.com/sivabalan-05](https://github.com/sivabalan-05/ztna-adaptive-trust)) |
+| Stack                                                                                              | Scale               | Performance | Security | Impact | Repository |
+| :------------------------------------------------------------------------------------------------- | :------------------ | :---------- | :------- | :----- | :--------- |
+| I / Cyber Security & Full Stack · Python, PyTorch, FastAPI, Spring Boot, React.js, PostgreSQL, JWT |                     |             |          |        |            |
 
 #### Technical Overview
 Built a **React + FastAPI Zero Trust platform** with JWT/TOTP MFA, RBAC, PostgreSQL/Redis, and continuous session verification using adaptive 0–100 trust scoring.  
